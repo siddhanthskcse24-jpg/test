@@ -1,5 +1,5 @@
-this is before git 
+this is before git push
 
-this is after the git 
+this is after the git push
 
-this is after pull 
+this is after  git pull 
